@@ -1,0 +1,9 @@
+</body> 
+바로 위에 
+
+<script
+      src="https://kit.fontawesome.com/6478f529f2.js"
+      crossorigin="anonymous"
+    ></script>
+
+하고 원하는 곳에 아이콘주사 복사해서 붙이기 
